@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manishray2233
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frameworks of PHP
+- 🌱 I’m currently learning React
 - 📫 How to reach me skype = live:.cid.b8a7d9f49492201f
 
 <!---
