@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishray2233&label=Profile%20views&color=0e75b6&style=flat" alt="manishray2233" /> </p>
 
-- 🔭 I’m currently working on **Blogging Website**
-
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently Exploring **MERN**
 
 - 💬 Ask me about **React, NextJS**
 
