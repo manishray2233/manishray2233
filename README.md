@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishray2233&label=Profile%20views&color=0e75b6&style=flat" alt="manishray2233" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishray2233&label=Profile%20views&color=0e75b6&style=flat" alt="manishray2233" /> </p>-->
 
 - 🌱 I’m currently Exploring **MERN**
 
